@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc61a577267b7ca57abf312fa48e4c71d9f8c8786",
+  "SCAN_LINK": "https://polygonscan.com/address/0xc61a577267b7ca57abf312fa48e4c71d9f8c8786",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Boy Ape Smart Club",
+  "SYMBOL": "BASC",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/boyapesmartclub",
+  "SHOW_BACKGROUND": true
+}
